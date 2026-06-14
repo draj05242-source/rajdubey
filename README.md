@@ -22,4 +22,4 @@ into decisions businesses can act on.
 | [Instagram Engagement Analytics](#) | SQL + Tableau | 10,000+ posts analysed |
 
 ### 📫 Reach me
-[LinkedIn](https://linkedin.com/in/rajdubey) · draj05242@gmail.com# rajdubey
+[LinkedIn](https://linkedin.com/in/dubeyraj) · draj05242@gmail.com# rajdubey
